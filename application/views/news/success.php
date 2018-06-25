@@ -1,0 +1,1 @@
+<p>News item captured successfully!</p>

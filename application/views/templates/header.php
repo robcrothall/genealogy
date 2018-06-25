@@ -1,6 +1,7 @@
 <html>
 	<head>
-		<title>CodeIgniter Tutorial</title>
+		<title>KHM Genealogy</title>
 	</head>
 	<body>
-		<h1 style="color:blue"><?php echo $title; ?></h1>
+	  <h1>Kowie Museum Genealogy</h1>
+	    <h2 style="color:blue"><?php echo $title; ?></h2>
